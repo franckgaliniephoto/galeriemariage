@@ -483,6 +483,10 @@ body.defilement-bloque { overflow: hidden; }
 }
 
 /* ---------- 9. VISIONNEUSE ---------- */
+/* Tant qu'elle est fermée, la visionneuse est totalement retirée
+   de la page (sinon elle bloquerait les clics sur tout le site). */
+.visionneuse[hidden] { display: none; }
+
 .visionneuse {
   position: fixed;
   inset: 0;
