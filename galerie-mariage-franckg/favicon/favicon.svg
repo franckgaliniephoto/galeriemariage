@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="14" fill="#FBF8F2"/>
-  <rect x="5.5" y="5.5" width="53" height="53" rx="10" fill="none" stroke="#E4D6BF" stroke-width="1.5"/>
-  <text x="32" y="43" text-anchor="middle"
-        font-family="Iowan Old Style, Georgia, 'Times New Roman', serif"
-        font-style="italic" font-size="30" fill="#2B2620">F.G</text>
-</svg>
