@@ -62,7 +62,7 @@ const PHOTOS = [
 
   /* ----- Préparatifs ----- */
   { src: "images/preparatifs/exemple-preparatifs-01.webp", category: "preparatifs", alt: "Photo d'exemple : préparatifs de la mariée, détail de la robe", ratio: "3/2" },
-  { src: "images/preparatifs/exemple-preparatifs-02.webp", category: "preparatifs", alt: "Photo d'exemple : boutons de manchette du marié", ratio: "9/16" },
+  { src: "images/preparatifs/exemple-preparatifs-02.webp", category: "preparatifs", alt: "Photo d'exemple : boutons de manchette du marié", ratio: "3/4" },
   { src: "images/preparatifs/exemple-preparatifs-03.webp", category: "preparatifs", alt: "Photo d'exemple : bouquet posé près de la fenêtre", ratio: "3/4" },
 
   /* ----- Décoration ----- */
